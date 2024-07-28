@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/SantiagoGaonaC/epic-organizer/blob/main/frontend/src/app/favicon.ico" align="center" alt="EpicOrganizer" />
+ <img width="100px" src="https://github.com/lionking0105/epic-organizer/blob/main/frontend/src/app/favicon.ico" align="center" alt="EpicOrganizer" />
  <h2 align="center">Epic Organizer</h2>
  <p align="center">Minimalist calendar to organize tasks
 </p>
@@ -34,7 +34,7 @@ Some project requirements
 ## Installation
 Clone repository
 ```bash
-git clone https://github.com/SantiagoGaonaC/epic-organizer
+git clone https://github.com/lionking0105/epic-organizer
 ```
 
 ## Create `.env` required for backend and frontend
@@ -70,20 +70,20 @@ If you don't want to use turbo pack for your dev builds, delete --turbo in scrip
 ---
 
 # Features
-![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/634c4ca1-c296-4530-b8eb-214ec0e5e65b)
+![image](https://github.com/lionking0105/epic-organizer/assets/53282017/634c4ca1-c296-4530-b8eb-214ec0e5e65b)
 
 ## Auth (Login - Register)
 - Register
-![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/5d12d008-6123-40a7-a027-2ed62f828e85)
+![image](https://github.com/lionking0105/epic-organizer/assets/53282017/5d12d008-6123-40a7-a027-2ed62f828e85)
 - Login (Feature code send to email for auth)
-![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/b72addcf-5fb0-4c79-8078-128510b9a82a)
+![image](https://github.com/lionking0105/epic-organizer/assets/53282017/b72addcf-5fb0-4c79-8078-128510b9a82a)
 
 ## Calendar (Calendar - Task - Modals - Menulist)
-![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/3981cdf2-4bfb-413d-a17d-40baf0d2d331)
-![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/a403361c-b551-4694-a738-981ba0bba1b6)
+![image](https://github.com/lionking0105/epic-organizer/assets/53282017/3981cdf2-4bfb-413d-a17d-40baf0d2d331)
+![image](https://github.com/lionking0105/epic-organizer/assets/53282017/a403361c-b551-4694-a738-981ba0bba1b6)
 
 
 
 # Video
 
-![ExampleEpicOrganizer](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/661c58af-3daa-4c5b-864d-c838e201b682)
+![ExampleEpicOrganizer](https://github.com/lionking0105/epic-organizer/assets/53282017/661c58af-3daa-4c5b-864d-c838e201b682)
