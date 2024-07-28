@@ -82,20 +82,7 @@ If you don't want to use turbo pack for your dev builds, delete --turbo in scrip
 ![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/3981cdf2-4bfb-413d-a17d-40baf0d2d331)
 ![image](https://github.com/SantiagoGaonaC/epic-organizer/assets/53282017/a403361c-b551-4694-a738-981ba0bba1b6)
 
-## Contributing
-## License
-## Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-gaona-carvajal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-   <a href="mailto:santigaona17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:sgaonacarvajal@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-</p>
+
 
 # Video
 
